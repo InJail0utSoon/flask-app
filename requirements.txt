@@ -122,7 +122,7 @@ pytube==9.5.3
 pytz==2019.3
 pyxattr==0.6.0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==16.0.2
 rencode==1.0.5
 reportlab==3.4.0
